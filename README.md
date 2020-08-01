@@ -1,2 +1,1 @@
 hoge
-Hi ! Thank you!!!
